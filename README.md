@@ -1,24 +1,25 @@
-# ENEL645- Fall 2024
-Repository for ENEL 645 - Data Mining and Machine Learning.
+# ENEN645 and ENSF617
+Repository for ENEN645 and ENSF617 courses.
 
-The approved course outline is [here](./Slides/ENEL645-Fall2024-course-outline.pdf).
+The approved course outlines are [here](./Outline/ENEN645-Winter2026-CourseOutline.pdf) and [here](./Outline/ENSF617-Winter2026-CourseOutline.pdf).
 
 ### Important Dates
-- Assignment 01 due January 31st at midnight - Submit in a D2L dropbox
-- Assignment 02 due February 14th at midnight - Submit in a D2L dropbox
-- Midterm 01 is on March 3rd in the classroom
-- Midterm 02 is on March 10th in the classroom
-- Final Projects is due April 4th - Submit in a D2L dropbox
-- Reading week 17-21 February 
+- Assignment 01 due January 30th at midnight - Submit in a D2L dropbox
+- Assignment 02 due February 13th at midnight - Submit in a D2L dropbox
+- Midterm 01 is on 23 February in the classroom
+- Midterm 02 is on 06 March in the classroom
+- Final Projects is due 08 April - Submit in a D2L dropbox
+- Term break 15-21 February 
+- Final project presentations will be on 10 and 13 April during class time
 
 ### Rubrics
-- [Assignment 01](./Rubrics/Garbage-classification-proposal-assignment.pdf)
+- [Assignment 01](./Rubrics/Garbage-classification-assignment.pdf)
 - [Assignment 02](./Rubrics/Garbage-classification-programming.pdf)
 - [Final Project](./Rubrics/Final-project-description-rubric.pdf)
 
 ### Final Report Template
-- [Word](./Slides/final-project-template.docx)
-- [Overleaf](https://www.overleaf.com/2443357978qkrxnnmmvhpw#f449f3)
+- [Word](./final-project-template.docx)
+- [Overleaf](https://www.overleaf.com/read/rtjbsbfjndzh#8b2586)
 
 ### Computational resources
 - [ARC cluster](https://rcs.ucalgary.ca/ARC_Cluster_Guide) for MSc and PhD students.
@@ -26,44 +27,12 @@ The approved course outline is [here](./Slides/ENEL645-Fall2024-course-outline.p
 
 Please check the instructions to create a [conda environment](https://rcs.ucalgary.ca/Conda_on_ARC#Installing_Conda) and install [PyTorch](https://rcs.ucalgary.ca/PyTorch_on_ARC).
 
-
 # Slides and Tutorials
 
-- [L: Course Overview](./Slides/lecture01_course_overview.pdf)
-- [L: Fundamentals ML](./Slides/lecture02_fundamentals_ml.pdf)
-- [L: Overfitting and Regulzarization](./Slides/lecture03_overfitting_regularization.pdf)
+- [L: Course Overview](./Slides/course_overview.pdf)
+- [L: Fundamentals ML](./Slides/fundamentals_ml.pdf)
+- [L: Overfitting and Regulzarization](./Slides/overfitting_regularization.pdf)
 - [T: Overfitting and Regulzarization](./Tutorials/overfitting_regularization.ipynb)
-- [L: Deep Learning Intuition](./Slides/lecture04_dl_intutition.pdf)
-- [L: Fully Connected Neural Networks](./Slides/lecture05_fully_connected_nns.pdf)
-- [T: Fully Connected Neural Networks - 2D Example](/Tutorials/fully_connected_neural_network_2D_synthetic_example.ipynb)
-- [T: Fully Connected Neural Networks - MNIST Example](/Tutorials/fully_connected_NN_mnist_pytorch.ipynb)
-- [L: Assignment 01 Overview](/Slides/lecture06_assignment01_overview.pdf)
-- [L: Convolutional Neural Networks](/Slides/convolutional_neural_networks.pdf)
-- [L: Transfer Learning](/Slides/transfer_learning.pdf)
-- [T: Convolutional Neural Networks - MNIST](./Tutorials/CNN_mnist_pytorch.ipynb)
-- [T: Transfer Learning - Garbage classification with images](./Tutorials/transfer_learning_garbage_images.ipynb)
-- [L: Practical Applications Discussion](./Slides/lecture_PracticalApplications.pdf)
-- [L: Parameters and Memory](./Slides/parameters_and_memory.pdf)
-- [T: Transfer Learning - Garbage classification with text](./Tutorials/garbage_classification_text.ipynb)
-- [L:Adversarial Networks and Domain Adaptation](./Slides/GANs_DA.pdf)
-- [L: UNET Model](./Slides/unets.pdf)
-- [L: Recurrent Neural Networks](./Slides/ENEL645_RNNs.pdf)
-- [L: Self-supervised Learning](./Slides/SSL.pdf)
-- [L: Explainable AI](./Slides/explainable_AI.pdf)
-- [T: UNET Model for Signal Denosing](./Tutorials/denoising_1d_signals.ipynb)
-- [T: Generative Adversarial Network](./Tutorials/GAN_mnist.ipynb)
-- [T: Traditional Machine Learning](./Tutorials/tutorial_traditional_ML.ipynb)
-- [L: Physics Informed Neural Networks](./Slides/PINNs.pdf)
-- [T: Physics Informed Neural Networks](./Tutorials/heat_eqn_tutorial.ipynb)
-- [L: Graph Neural Networks](./Slides/gnns.pdf)
-- [T: Graph Neural Networks](./Tutorials/gnn_tutorial.ipynb)
-- [T: Recurrent Neural Networks](./Tutorials/RNNs.ipynb.ipynb)
-
-
-
-
-
-
 
 
 
