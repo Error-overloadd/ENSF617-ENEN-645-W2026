@@ -24,6 +24,7 @@ The approved course outlines are [here](./Outline/ENEN645-Winter2026-CourseOutli
 ### Computational resources
 - [ARC cluster](https://rcs.ucalgary.ca/ARC_Cluster_Guide) for MSc and PhD students.
 - [TALC cluster](https://rcs.ucalgary.ca/index.php/TALC_Cluster#Time_limits) for everyone.
+- [VPN instructions](https://ucalgary.service-now.com/it?id=kb_article&sys_id=52a169d6dbe5bc506ad32637059619cd)
 
 Please check the instructions to create a [conda environment](https://rcs.ucalgary.ca/Conda_on_ARC#Installing_Conda) and install [PyTorch](https://rcs.ucalgary.ca/PyTorch_on_ARC).
 
