@@ -43,6 +43,9 @@ Please check the instructions to create a [conda environment](https://rcs.ucalga
 - [T: Convolutional Neural Networks - MNIST](./Tutorials/CNN_mnist_pytorch.ipynb)
 - [L: Transfer Learning](./Slides/transfer_learning.pdf)
 - [T: Transfer Learning](./Tutorials/transfer_learning_garbage_images.ipynb)
+- [L: Traditional ML](./Slides/Traditional_ML.pdf)
+- [T: Traditional ML](./Tutorials/Traditional_ML(HMEQ_Data).ipynb)
+
 
 
 
